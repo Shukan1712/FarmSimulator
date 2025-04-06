@@ -51,11 +51,5 @@ A fun little Java console game where you manage a farm full of animals like cows
 
 ---
 
-## 👨‍🔧 Author
-
-- GitHub: [Shukan1712](https://github.com/Shukan1712)
-- Project made for fun + resume boost!
-
----
 
 ## ⭐️ Star the repo if you like it!
