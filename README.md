@@ -1,6 +1,9 @@
 # 🐄 Farm Simulator 🌾
 A fun little Java console game where you manage a farm full of animals like cows, chickens, and llamas — with emojis, energy levels, and a 6x6 grid system!
 
+
+[![Run on Replit](https://replit.com/badge/github/Shukan1712/FarmSimulator)](https://replit.com/@shukan17/Farm-Simulation)
+
 ---
 
 ## 🎮 Features
@@ -18,6 +21,25 @@ A fun little Java console game where you manage a farm full of animals like cows
 ## 📸 Sample Console Output
 
 
+---
+
+## 🚀 How to Run Locally
+
+1. Clone or download the repo
+2. Open in Eclipse/IntelliJ or any Java IDE
+3. Run `FarmTest.java` (contains the `main()` method)
+
+---
+
+
+## 👨‍🔧 Author
+
+- 👨‍💻 GitHub: [Shukan1712](https://github.com/Shukan1712)
+- 🌱 Website: [Visit My Portfolio](https://your-website-url.com) <!-- replace this -->
+- 💻 Replit: [Farm Simulation](https://replit.com/@shukan17/Farm-Simulation)
+- Project made for fun + resume boost!
+
+  
 ---
 
 ## ✨ Built With
