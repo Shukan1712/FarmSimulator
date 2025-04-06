@@ -19,6 +19,7 @@ A fun little Java console game where you manage a farm full of animals like cows
 ---
 
 ## 📸 Sample Console Output
+![Farm Simulator Screenshot](Screenshot%202025-04-06%20at%201.31.08%E2%80%AFAM.png)
 
 
 ---
